@@ -43,7 +43,7 @@ class Number
  }
 } 
 
-class Fourth
+class Display1
 {
 	public static void main(String args[])
 	{
