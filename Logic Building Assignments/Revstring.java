@@ -48,7 +48,7 @@ class StringDemo
 	
  } 
 
-class Fifth
+class Revstring
 {
 public static void main(String arg[])
 {
