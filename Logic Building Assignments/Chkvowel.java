@@ -45,7 +45,7 @@ class StringDemo
 	
  } 
 
-class Fourth
+class Chkvowel
 {
 public static void main(String arg[])
 {
