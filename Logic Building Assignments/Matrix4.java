@@ -38,7 +38,7 @@ class Matrix
     } 
 }
 
-class Fourth
+class Matrix4
 {
 	public static void main(String args[])
 	{
