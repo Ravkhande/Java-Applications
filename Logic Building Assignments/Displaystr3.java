@@ -50,7 +50,7 @@ class Pattern
 }
 
 
-class Third
+class Displaystr3
 {
 	public static void main(String args[])
 	{
