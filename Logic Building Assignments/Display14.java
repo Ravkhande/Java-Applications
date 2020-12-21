@@ -43,7 +43,7 @@ class Pattern
 }
 
 
-class Third
+class Display14
 {
 	public static void main(String args[])
 	{
