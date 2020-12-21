@@ -59,7 +59,7 @@ class Matrix
  } 
 }
 
-class Fifth
+class Display16
 {
 	public static void main(String args[])
 	{
