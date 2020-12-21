@@ -37,7 +37,7 @@ int Frequency(int Arr[][], int iRow, int iCol,int iNo)
 }
 }
 
-class Second
+class Matrix2
 {
 	public static void main(String args[])
 	{
