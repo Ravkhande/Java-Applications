@@ -44,7 +44,7 @@ class Pattern
 } 
 
 
-class Fifth
+class Display11
 {
 	public static void main(String args[])
 	{
