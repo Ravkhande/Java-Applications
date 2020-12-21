@@ -65,7 +65,7 @@ class Matrix
      } 
 }
 
-class Third
+class Matrix8
 {
 	public static void main(String args[])
 	{
