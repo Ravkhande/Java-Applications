@@ -35,7 +35,7 @@ class Pattern
  }
 
 
-class First
+class Display12
 {
 	public static void main(String args[])
 	{
