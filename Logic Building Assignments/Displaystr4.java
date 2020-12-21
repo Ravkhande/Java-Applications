@@ -72,7 +72,7 @@ class Pattern
 
 
 
-class Fourth
+class Displaystr4
 {
 	public static void main(String args[])
 	{
