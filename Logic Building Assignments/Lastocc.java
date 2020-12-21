@@ -38,7 +38,7 @@ class Number
 
 } 
 
-class Third
+class Lastocc
 {
 	public static void main(String args[])
 	{
