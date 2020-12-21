@@ -39,7 +39,7 @@ class Digit
  }
 } 
 
-class First
+class Count
 {
 	public static void main(String args[])
 	{
