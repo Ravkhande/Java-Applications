@@ -32,7 +32,7 @@ class StringDemo
 }
 
 
-class Second
+class Count5
 {
 public static void main(String arg[])
 {
