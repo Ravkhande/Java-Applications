@@ -40,7 +40,7 @@ class Pattern
 }
 
 
-class Second
+class Display13
 {
 	public static void main(String args[])
 	{
