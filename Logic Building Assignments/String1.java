@@ -50,7 +50,7 @@ class StringDemo
   }
  
   
-class First
+class String1
 { 
   public static void main(String args[])
   {
