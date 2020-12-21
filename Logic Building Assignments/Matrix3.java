@@ -71,7 +71,7 @@ int MaxDiagonal(int Arr[][], int iRow, int iCol)
 
 }
 
-class Third
+class Matrix3
 {
 	public static void main(String args[])
 	{
