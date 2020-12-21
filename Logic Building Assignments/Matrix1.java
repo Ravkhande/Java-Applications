@@ -38,7 +38,7 @@ int AddDiagonal(int Arr[][], int iRow, int iCol)
 }
 }
 
-class First
+class Matrix1
 {
 	public static void main(String args[])
 	{
