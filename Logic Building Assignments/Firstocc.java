@@ -37,7 +37,7 @@ class Number
 
 } 
 
-class Second
+class Firstocc
 {
 	public static void main(String args[])
 	{
