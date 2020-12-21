@@ -33,7 +33,7 @@ class Number
  }
 } 
 
-class Fifth
+class RetProd
 {
 	public static void main(String args[])
 	{
