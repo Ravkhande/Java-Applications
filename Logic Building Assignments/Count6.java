@@ -37,7 +37,7 @@ class StringDemo
 }
 
 
-class Third
+class Count6
 {
 public static void main(String arg[])
 {
