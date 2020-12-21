@@ -29,7 +29,7 @@ class StringDemo
 }
 
 
-class First
+class Count4
 {
 public static void main(String arg[])
 {
