@@ -29,7 +29,7 @@ class Matrix
 }
 
 
-class Third
+class Tran
 {
 	public static void main(String args[])
 	{
