@@ -64,7 +64,7 @@ void ReverseRow(int Arr[][], int iRow, int iCol)
 }
 }
 
-class Second
+class Matrix7
 {
 public static void main(String args[])
 {
