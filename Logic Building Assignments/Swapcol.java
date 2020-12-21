@@ -54,7 +54,7 @@ class Matrix
 }
 
 
-class Second
+class Swapcol
 {
 	public static void main(String args[])
 	{
