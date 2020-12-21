@@ -41,7 +41,7 @@ class Digit
  }
 } 
 
-class Fourth
+class MulDigit
 {
 	public static void main(String args[])
 	{
