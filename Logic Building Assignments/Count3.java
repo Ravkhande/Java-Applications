@@ -44,7 +44,7 @@ class Digit
  }
 } 
 
-class Fifth
+class Count3
 {
 	public static void main(String args[])
 	{
