@@ -53,7 +53,7 @@ class Pattern
 }
 
 
-class Second
+class Displaystr2
 {
 	public static void main(String args[])
 	{
