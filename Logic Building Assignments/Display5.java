@@ -40,7 +40,7 @@ class Pattern
 } 
 
 
-class Fourth
+class Display5
 {
 	public static void main(String args[])
 	{
