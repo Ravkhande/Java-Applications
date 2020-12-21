@@ -51,7 +51,7 @@ class StringDemo
 }
 
 
-class Third
+class String3
 {
 public static void main(String arg[])
 {
