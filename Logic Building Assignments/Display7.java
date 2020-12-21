@@ -39,7 +39,7 @@ class Pattern
 } 
 
 
-class First
+class Display7
 {
 	public static void main(String args[])
 	{
