@@ -42,7 +42,7 @@ class Number
 
 } 
 
-class First
+class ChkNum
 {
 	public static void main(String args[])
 	{
