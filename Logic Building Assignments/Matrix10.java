@@ -50,7 +50,7 @@ boolean ChkSparse(int Arr[][], int iRow, int iCol)
 }
 
 
-class Fifth
+class Matrix10
 {
 public static void main(String args[])
 {
