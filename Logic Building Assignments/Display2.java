@@ -41,7 +41,7 @@ class Pattern
 } 
 
 
-class First
+class Display2
 {
 	public static void main(String args[])
 	{
