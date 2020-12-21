@@ -4,7 +4,7 @@
  Write a program which accept matrix and swap the contents of consecutive rows.
 Input :
         
-		 3 2 5 9
+         3 2 5 9
          4 3 2 2
          8 4 1 9
          3 9 7 5
@@ -69,7 +69,7 @@ class Matrix
       } 
 }
 
-class Fifth
+class Matrix5
 {
 	public static void main(String args[])
 	{
