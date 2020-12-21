@@ -41,7 +41,7 @@ void Transpose(int Arr[][], int iRow, int iCol)
 }
 }
 
-class First
+class Matrix6
 {
 public static void main(String args[])
 {
