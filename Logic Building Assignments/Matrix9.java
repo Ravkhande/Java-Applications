@@ -58,7 +58,7 @@ for(i=0;i<iRow-1;i++)
 }
 
 
-class Fourth
+class Matrix9
 {
 public static void main(String args[])
 {
